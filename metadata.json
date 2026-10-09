@@ -1,0 +1,6 @@
+{
+  "name": "AutoHeal EvidenceFirst",
+  "description": "Evidence-first incident-response agent with competing hypothesis board, deterministic sandbox, and code-enforced safety gate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
